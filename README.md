@@ -10,9 +10,11 @@
 
 ## Project UseCase :
 
-#### We will be predicting the profit from the startup’s dataset with the features available to us. We’re using the 50-startups dataset for this problem statement and we will be using the concept of regression to predict the profit of startups companies.
+#### Maersk is a Danish shipping company, active in ocean and inland freight transportation and associated services, such as supply chain management and port operation. Maersk has invested in different business segments like FMCG, Fashion & lifestyle, Retail, Chemicals, Automotive, Technology & Electronics, Pharma and Healthcare, Logistics etc. But Maersk wants to minimise their spending in these segments and invest mostly in two main business segments, i.e., transport and logistics and energy.
 
-#### Dataset link : https://www.kaggle.com/datasets/farhanmd29/50-startups
+We will be predicting the profit from different segments mentioned above. We’re using the Maersk dataset for this problem statement, and we will be using the concept of regression to predict the profit for spending in different segments.
+
+#### Dataset link : maresk.csv
 
 #### Procedure Followed :-> 
 - Sagemaker Training and Model Deployment
